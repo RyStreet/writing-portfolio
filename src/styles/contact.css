@@ -1,0 +1,26 @@
+#contactContainer{
+    margin-top: 4%;
+    font-family: "Roboto Slab";
+    height: 500px;
+}
+
+#contact{
+    border-bottom: solid black;
+    
+}
+
+
+#emailLogo{
+    color: black;
+}
+
+#phoneLogo{
+    color: black;
+}
+
+#emailLogo:hover{
+color: bisque;
+}
+#phoneLogo:hover{
+    color: bisque;
+}

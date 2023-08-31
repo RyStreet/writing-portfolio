@@ -1,0 +1,86 @@
+#aboutContainer{
+    
+    font-family: "Roboto Slab";
+    
+  
+    
+}
+
+#introContainer{
+    margin-top: 1%;
+    width: 30%;
+    
+    
+}
+
+#imgContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+#headshot{
+    width: 100%;
+    
+}
+
+#aboutText1{
+    border: solid black;
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    
+}
+
+#helloText{
+    margin-left: 5.5%;
+}
+
+#nameTag{
+    margin-left: 5%;
+    font-size: 50px;
+}
+
+#introType{
+    margin-left: 5%;
+}
+
+
+
+#aboutText2{
+    width: 100%;
+    font-size: 25px;
+    font-family: "Roboto Slab";
+    margin-top: 2%;
+    
+    margin-bottom: 2%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#aboutP{
+    width: 70%;
+}
+
+
+
+ @media screen and (max-width: 1000px){
+    #introContainer{
+        width: 80%;
+    }
+    #aboutText2{
+        width: 80%;
+        display: flex;
+        justify-content: center;
+    }
+    #aboutP{
+        width: 100%;
+        margin-left: 15%;
+        font-size: large;
+    }
+    
+}
+
+ 

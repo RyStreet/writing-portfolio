@@ -1,0 +1,28 @@
+#resumeContainer{
+    font-family: "Roboto Slab";
+    /* height: 1400px; */
+
+}
+
+#resTitle{
+ border-bottom: solid black;
+}
+
+#techSkills{
+    width: 60%;
+}
+
+.title{
+    border-bottom: solid black;
+}
+
+.techList{
+    font-size: large;
+    margin-top: 3%;
+}
+
+@media screen and (max-width: 1000px) {
+    #techSkills{
+        width: 100%;
+    }
+}

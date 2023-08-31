@@ -1,0 +1,18 @@
+#navbar{
+    background-color: white;
+    }
+Nav{
+    font-size: larger;
+    font-family: "Roboto Slab";
+    
+   
+}
+
+#github{
+    height: 5px;
+    color: blue;
+}
+
+#github:hover{
+    color: beige;
+}
